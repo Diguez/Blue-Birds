@@ -1,4 +1,4 @@
-<?php
+<html>
     $name = $_POST['name'];
     $visitor_email = $_POST['email'];
     $subject = $_POST['subject'];
@@ -26,4 +26,4 @@
     header("Location: contact.html");
 
 
-?>
+</html>
